@@ -1,0 +1,342 @@
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csprojAssemblyReference.cache
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Form1.resources
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Properties.Resources.resources
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csproj.GenerateResource.cache
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csproj.CoreCompileInputs.cache
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\fustinonispostamente.exe.config
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\fustinonispostamente.exe
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\fustinonispostamente.pdb
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.Buffers.dll
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.Memory.dll
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Json.dll
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.ValueTuple.dll
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.Buffers.xml
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.Memory.xml
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Json.xml
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.ValueTuple.xml
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csproj.CopyComplete
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.exe
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.pdb
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Form2.resources
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Login.resources
+C:\Users\lucaf\Desktop\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Register.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csprojAssemblyReference.cache
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.exe
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.pdb
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\fustinonispostamente.exe.config
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\fustinonispostamente.exe
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\fustinonispostamente.pdb
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Buffers.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Memory.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Json.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.ValueTuple.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Buffers.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Memory.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Json.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.ValueTuple.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Form1.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Form2.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Login.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Properties.Resources.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Register.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csproj.GenerateResource.cache
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csproj.CoreCompileInputs.cache
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csproj.CopyComplete
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.vDisp.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csprojAssemblyReference.cache
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.exe
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.pdb
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\fustinonispostamente.exe.config
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\fustinonispostamente.exe
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\fustinonispostamente.pdb
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Buffers.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Memory.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Json.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.ValueTuple.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Buffers.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Memory.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Json.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.ValueTuple.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Form1.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Form2.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Login.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Properties.Resources.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Register.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.vDisp.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csproj.GenerateResource.cache
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csproj.CoreCompileInputs.cache
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csproj.CopyComplete
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\fustinonispostamente.exe.config
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\fustinonispostamente.exe
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\fustinonispostamente.pdb
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Buffers.dll
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Memory.dll
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Json.dll
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.ValueTuple.dll
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Buffers.xml
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Memory.xml
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Json.xml
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.ValueTuple.xml
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csprojAssemblyReference.cache
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Form1.resources
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Form2.resources
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Login.resources
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Properties.Resources.resources
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Register.resources
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.vDisp.resources
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csproj.GenerateResource.cache
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csproj.CoreCompileInputs.cache
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csproj.CopyComplete
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.exe
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.pdb
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.veicoliclass.resources
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.viaggio.resources
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Deposita.resources
+C:\Users\lucaf\Desktop\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Dati.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csprojAssemblyReference.cache
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.exe
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.pdb
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\fustinonispostamente.exe.config
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\fustinonispostamente.exe
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\fustinonispostamente.pdb
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Buffers.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Memory.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Json.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.ValueTuple.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Buffers.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Memory.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Json.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.ValueTuple.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Dati.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Deposita.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Form1.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Form2.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Login.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Properties.Resources.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Register.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.vDisp.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.veicoliclass.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.viaggio.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csproj.GenerateResource.cache
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csproj.CoreCompileInputs.cache
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente (2)\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csproj.CopyComplete
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\fustinonispostamente.exe.config
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\fustinonispostamente.exe
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\fustinonispostamente.pdb
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Buffers.dll
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Memory.dll
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Json.dll
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.ValueTuple.dll
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Buffers.xml
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Memory.xml
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Json.xml
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\bin\Debug\System.ValueTuple.xml
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csprojAssemblyReference.cache
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Dati.resources
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Deposita.resources
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Form1.resources
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Form2.resources
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Login.resources
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Properties.Resources.resources
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Register.resources
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.vDisp.resources
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.veicoliclass.resources
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.viaggio.resources
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csproj.GenerateResource.cache
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csproj.CoreCompileInputs.cache
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csproj.CopyComplete
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.exe
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.pdb
+C:\Users\lucaf\Desktop\fustinonispostamente backup\fustinonispostamente (2)\fustinonispostamente\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.riepilogo.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csprojAssemblyReference.cache
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.exe
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.pdb
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\fustinonispostamente.exe.config
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\fustinonispostamente.exe
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\fustinonispostamente.pdb
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.Buffers.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.Memory.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Json.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.ValueTuple.dll
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.Buffers.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.Memory.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Json.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\bin\Debug\System.ValueTuple.xml
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Dati.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Deposita.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Form1.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Form2.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Login.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Properties.Resources.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Register.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.riepilogo.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.vDisp.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.veicoliclass.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.viaggio.resources
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csproj.GenerateResource.cache
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csproj.CoreCompileInputs.cache
+C:\Users\fustinoni.17208\Desktop\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csproj.CopyComplete
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csprojAssemblyReference.cache
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.exe
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.pdb
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\bin\Debug\fustinonispostamente.exe.config
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\bin\Debug\fustinonispostamente.exe
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\bin\Debug\fustinonispostamente.pdb
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\bin\Debug\System.Buffers.dll
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\bin\Debug\System.Memory.dll
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Json.dll
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\bin\Debug\System.ValueTuple.dll
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\bin\Debug\System.Buffers.xml
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\bin\Debug\System.Memory.xml
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Json.xml
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\bin\Debug\System.ValueTuple.xml
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Dati.resources
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Deposita.resources
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Form1.resources
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Form2.resources
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Login.resources
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Properties.Resources.resources
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Register.resources
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.riepilogo.resources
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.vDisp.resources
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.veicoliclass.resources
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.viaggio.resources
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csproj.GenerateResource.cache
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csproj.CoreCompileInputs.cache
+C:\Users\fustinoni.17208\Desktop\Finito1\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csproj.CopyComplete
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csprojAssemblyReference.cache
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.exe
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.pdb
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\bin\Debug\fustinonispostamente.exe.config
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\bin\Debug\fustinonispostamente.exe
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\bin\Debug\fustinonispostamente.pdb
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\bin\Debug\System.Buffers.dll
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\bin\Debug\System.Memory.dll
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Json.dll
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\bin\Debug\System.ValueTuple.dll
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\bin\Debug\System.Buffers.xml
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\bin\Debug\System.Memory.xml
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\bin\Debug\System.Text.Json.xml
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\bin\Debug\System.ValueTuple.xml
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Dati.resources
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Deposita.resources
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Form1.resources
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Form2.resources
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Login.resources
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Properties.Resources.resources
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.Register.resources
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.riepilogo.resources
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.vDisp.resources
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.veicoliclass.resources
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.viaggio.resources
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csproj.GenerateResource.cache
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csproj.CoreCompileInputs.cache
+C:\Users\fustinoni.17208\Desktop\Finito2\Finito2\fustinonispostamente\fustinonispostamente\obj\Debug\fustinonispostamente.csproj.CopyComplete
